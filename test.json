@@ -1,0 +1,98 @@
+{
+    "docs": [
+        {
+            "url": "https://www.themoviedb.org/t/p/original/tXHpvlr5F7gV5DwgS7M5HBrUi2C.jpg",
+            "previewUrl": "https://www.themoviedb.org/t/p/w500/tXHpvlr5F7gV5DwgS7M5HBrUi2C.jpg",
+            "height": 1080,
+            "width": 1920,
+            "language": "pt",
+            "type": "backdrops",
+            "movieId": 326
+        },
+        {
+            "url": "https://www.themoviedb.org/t/p/original/iNh3BivHyg5sQRPP1KOkzguEX0H.jpg",
+            "previewUrl": "https://www.themoviedb.org/t/p/w500/iNh3BivHyg5sQRPP1KOkzguEX0H.jpg",
+            "height": 1080,
+            "width": 1920,
+            "language": null,
+            "type": "backdrops",
+            "movieId": 326
+        },
+        {
+            "url": "https://www.themoviedb.org/t/p/original/ybQChWyYRbEmLCVeyK06xFM9gj4.jpg",
+            "previewUrl": "https://www.themoviedb.org/t/p/w500/ybQChWyYRbEmLCVeyK06xFM9gj4.jpg",
+            "height": 1080,
+            "width": 1920,
+            "language": "en",
+            "type": "backdrops",
+            "movieId": 326
+        },
+        {
+            "url": "https://www.themoviedb.org/t/p/original/xXXFdqV965crlxCO3dj3PhtcCAf.jpg",
+            "previewUrl": "https://www.themoviedb.org/t/p/w500/xXXFdqV965crlxCO3dj3PhtcCAf.jpg",
+            "height": 2160,
+            "width": 3840,
+            "language": "en",
+            "type": "backdrops",
+            "movieId": 326
+        },
+        {
+            "url": "https://www.themoviedb.org/t/p/original/9Xw0I5RV2ZqNLpul6lXKoviYg55.jpg",
+            "previewUrl": "https://www.themoviedb.org/t/p/w500/9Xw0I5RV2ZqNLpul6lXKoviYg55.jpg",
+            "height": 1080,
+            "width": 1920,
+            "language": null,
+            "type": "backdrops",
+            "movieId": 326
+        },
+        {
+            "url": "https://www.themoviedb.org/t/p/original/gZMgEUYbh0DIBNaRJT0ofxLDJ5T.jpg",
+            "previewUrl": "https://www.themoviedb.org/t/p/w500/gZMgEUYbh0DIBNaRJT0ofxLDJ5T.jpg",
+            "height": 1080,
+            "width": 1920,
+            "language": null,
+            "type": "backdrops",
+            "movieId": 326
+        },
+        {
+            "url": "https://www.themoviedb.org/t/p/original/wQP54Zdje3NO0xX8CbmzB07NXNp.jpg",
+            "previewUrl": "https://www.themoviedb.org/t/p/w500/wQP54Zdje3NO0xX8CbmzB07NXNp.jpg",
+            "height": 964,
+            "width": 1712,
+            "language": "de",
+            "type": "backdrops",
+            "movieId": 326
+        },
+        {
+            "url": "https://www.themoviedb.org/t/p/original/qCUjQId2jQS53edDKQXBJojd5sd.jpg",
+            "previewUrl": "https://www.themoviedb.org/t/p/w500/qCUjQId2jQS53edDKQXBJojd5sd.jpg",
+            "height": 1080,
+            "width": 1920,
+            "language": "es",
+            "type": "backdrops",
+            "movieId": 326
+        },
+        {
+            "url": "https://www.themoviedb.org/t/p/original/pdKcdpxqgCcI0vhDgUkfnFUkNZO.jpg",
+            "previewUrl": "https://www.themoviedb.org/t/p/w500/pdKcdpxqgCcI0vhDgUkfnFUkNZO.jpg",
+            "height": 2160,
+            "width": 3840,
+            "language": "en",
+            "type": "backdrops",
+            "movieId": 326
+        },
+        {
+            "url": "https://www.themoviedb.org/t/p/original/A8dxAysDvK3tL5Gy6oI3VT5nYNT.jpg",
+            "previewUrl": "https://www.themoviedb.org/t/p/w500/A8dxAysDvK3tL5Gy6oI3VT5nYNT.jpg",
+            "height": 720,
+            "width": 1280,
+            "language": "en",
+            "type": "backdrops",
+            "movieId": 326
+        }
+    ],
+    "total": 23,
+    "limit": 10,
+    "page": 1,
+    "pages": 3
+}

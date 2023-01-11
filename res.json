@@ -1,0 +1,657 @@
+{
+    "externalId": {
+        "_id": "62f0dee70f5be412465c6a3a",
+        "imdb": "tt0463281"
+    },
+    "logo": {
+        "_id": "62f0dee70f5be412465c6a38",
+        "url": null
+    },
+    "poster": {
+        "_id": "630f22a8d9fe856bc6777286",
+        "url": "https://st.kp.yandex.net/images/film_big/300530.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_300530.jpg"
+    },
+    "backdrop": null,
+    "rating": {
+        "_id": "62f0dee70f5be412465c6a3e",
+        "kp": 7,
+        "imdb": 6.9,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+    },
+    "votes": {
+        "_id": "62f0dee70f5be412465c6a3f",
+        "kp": 263,
+        "imdb": 162,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+    },
+    "videos": {
+        "_id": "62f28f61252c8469efc1ac53",
+        "trailers": [],
+        "teasers": []
+    },
+    "budget": {
+        "_id": "630f22a8d9fe856bc677728d"
+    },
+    "fees": {
+        "world": {
+            "_id": "630f22a8d9fe856bc677728f"
+        },
+        "russia": {
+            "_id": "630f22a8d9fe856bc6777290"
+        },
+        "usa": {
+            "_id": "630f22a8d9fe856bc6777291"
+        },
+        "_id": "630f22a8d9fe856bc677728e"
+    },
+    "distributors": {
+        "distributor": null,
+        "distributorRelease": null
+    },
+    "premiere": {
+        "_id": "62f4fc88252c8469ef7d4a4d",
+        "country": "Япония",
+        "world": "2003-04-01T00:00:00.000Z"
+    },
+    "images": {
+        "framesCount": 0
+    },
+    "collections": [],
+    "updateDates": [
+        "2021-09-25T19:56:04.000Z",
+        "2021-09-26T18:20:45.000Z",
+        "2021-10-02T04:18:03.000Z",
+        "2021-10-02T17:47:40.000Z",
+        "2021-10-03T14:35:21.000Z"
+    ],
+    "id": 300530,
+    "type": "anime",
+    "name": "Воздушный мастер",
+    "description": "Маки Айкава – застенчивая старшеклассница огромного роста. Маки Айкава – бывшая «королева гимнастики» японских островов. Маки Айкава – знаменитый уличный боец по прозвищу «Воздушный Мастер». Маки Айкава – кумир, соперник, друг, идол и просто любимая женщина.\n\nИтак, жизнь Маки Айкавы, «Воздушного Мастера»: ее победы (реже – поражения), ее друзья и враги, странствия по Токио в поисках адреналина и славы – без прикрас, купюр и фансервиса.",
+    "slogan": null,
+    "year": 2003,
+    "facts": [],
+    "genres": [
+        {
+            "name": "аниме"
+        },
+        {
+            "name": "мультфильм"
+        },
+        {
+            "name": "боевик"
+        },
+        {
+            "name": "комедия"
+        },
+        {
+            "name": "спорт"
+        }
+    ],
+    "countries": [
+        {
+            "name": "Япония"
+        }
+    ],
+    "seasonsInfo": [
+        {
+            "number": 1,
+            "episodesCount": 27
+        }
+    ],
+    "persons": [
+        {
+            "id": 378537,
+            "name": "Даисукэ Нисио",
+            "enName": "Daisuke Nishio",
+            "description": null,
+            "enProfession": "director",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_378537.jpg"
+        },
+        {
+            "id": 1035865,
+            "name": "Такахиро Имамура",
+            "enName": "Takahiro Imamura",
+            "description": null,
+            "enProfession": "director",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1035865.jpg"
+        },
+        {
+            "id": 1873736,
+            "name": "Наоюки Ито",
+            "enName": "Naoyuki Ito",
+            "description": null,
+            "enProfession": "director",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1873736.jpg"
+        },
+        {
+            "id": 597826,
+            "name": "Такао Ёсидзава",
+            "enName": "Takao Yoshizawa",
+            "description": null,
+            "enProfession": "director",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_597826.jpg"
+        },
+        {
+            "id": 1762687,
+            "name": "Го Кога",
+            "enName": "Go Koga",
+            "description": null,
+            "enProfession": "director",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1762687.jpg"
+        },
+        {
+            "id": 3175990,
+            "name": "Ютака Накаджима",
+            "enName": "Yutaka Nakajima",
+            "description": null,
+            "enProfession": "director",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_3175990.jpg"
+        },
+        {
+            "id": 2739416,
+            "name": "Кэисукэ Ониси",
+            "enName": "Keisuke Ônishi",
+            "description": null,
+            "enProfession": "director",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2739416.jpg"
+        },
+        {
+            "id": 1239985,
+            "name": "Хироси Исиодори",
+            "enName": "Hiroshi Ishiodori",
+            "description": null,
+            "enProfession": "director",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1239985.jpg"
+        },
+        {
+            "id": 409416,
+            "name": "Тосиаки Комура",
+            "enName": "Toshiaki Komura",
+            "description": null,
+            "enProfession": "director",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_409416.jpg"
+        },
+        {
+            "id": 2407602,
+            "name": "Кен Кояма",
+            "enName": "Ken Koyama",
+            "description": null,
+            "enProfession": "director",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2407602.jpg"
+        },
+        {
+            "id": 932817,
+            "name": "Роми Пак",
+            "enName": "Romi Park",
+            "description": "Maki Aikawa, озвучка",
+            "enProfession": "actor",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_932817.jpg"
+        },
+        {
+            "id": 55207,
+            "name": "Линда Бэллентайн",
+            "enName": "Linda Ballantyne",
+            "description": "озвучка",
+            "enProfession": "actor",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_55207.jpg"
+        },
+        {
+            "id": 1034276,
+            "name": "Дрю Кумбс",
+            "enName": "Drew Coombs",
+            "description": "озвучка",
+            "enProfession": "actor",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1034276.jpg"
+        },
+        {
+            "id": 1960272,
+            "name": "Карлос Диаз",
+            "enName": "Carlos Diaz",
+            "description": "озвучка",
+            "enProfession": "actor",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1960272.jpg"
+        },
+        {
+            "id": 2501429,
+            "name": "Дебора Дрейкфорд",
+            "enName": "Deborah Drakeford",
+            "description": "озвучка",
+            "enProfession": "actor",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2501429.jpg"
+        },
+        {
+            "id": 1150718,
+            "name": "Ричи Фаваларо",
+            "enName": "Richie Favalaro",
+            "description": "озвучка",
+            "enProfession": "actor",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1150718.jpg"
+        },
+        {
+            "id": 3438,
+            "name": "Кэти Гриффин",
+            "enName": "Katie Griffin",
+            "description": "озвучка",
+            "enProfession": "actor",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_3438.jpg"
+        },
+        {
+            "id": 553966,
+            "name": "Тим Хамагучи",
+            "enName": "Tim Hamaguchi",
+            "description": "озвучка",
+            "enProfession": "actor",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_553966.jpg"
+        },
+        {
+            "id": 1429316,
+            "name": "Билл Хьюстон",
+            "enName": "Bill Houston",
+            "description": "озвучка",
+            "enProfession": "actor",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1429316.jpg"
+        },
+        {
+            "id": 91895,
+            "name": "Брин МакОли",
+            "enName": "Bryn McAuley",
+            "description": "озвучка",
+            "enProfession": "actor",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_91895.jpg"
+        },
+        {
+            "id": 1671769,
+            "name": "Дэймон Пападопулос",
+            "enName": "Damon Papadopoulos",
+            "description": "озвучка",
+            "enProfession": "actor",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1671769.jpg"
+        },
+        {
+            "id": 99664,
+            "name": "Миклос Перлус",
+            "enName": "Miklos Perlus",
+            "description": "озвучка",
+            "enProfession": "actor",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_99664.jpg"
+        },
+        {
+            "id": 105346,
+            "name": "Эндрю Сэбистон",
+            "enName": "Andrew Sabiston",
+            "description": "озвучка",
+            "enProfession": "actor",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_105346.jpg"
+        },
+        {
+            "id": 8808,
+            "name": "Роберт Смит",
+            "enName": "Rob Smith",
+            "description": "озвучка",
+            "enProfession": "actor",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_8808.jpg"
+        },
+        {
+            "id": 30957,
+            "name": "Род Уилсон",
+            "enName": "Rod Wilson",
+            "description": "озвучка",
+            "enProfession": "actor",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_30957.jpg"
+        },
+        {
+            "id": 704271,
+            "name": "Томоко Канэда",
+            "enName": "Tomoko Kaneda",
+            "description": "Renge Inui, озвучка",
+            "enProfession": "actor",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_704271.jpg"
+        },
+        {
+            "id": 376426,
+            "name": "Юкана",
+            "enName": "Yukana",
+            "description": "Mina Nakanotani, озвучка",
+            "enProfession": "actor",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_376426.jpg"
+        },
+        {
+            "id": 1047518,
+            "name": "Масуми Асано",
+            "enName": "Masumi Asano",
+            "description": "Michiru Kawamoto, озвучка",
+            "enProfession": "actor",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1047518.jpg"
+        },
+        {
+            "id": 1376030,
+            "name": "Марико Судзуки",
+            "enName": "Mariko Suzuki",
+            "description": "Yu Takigawa, озвучка",
+            "enProfession": "actor",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1376030.jpg"
+        },
+        {
+            "id": 134609,
+            "name": "Мика Дои",
+            "enName": "Mika Doi",
+            "description": "Kaori Sakiyama, озвучка",
+            "enProfession": "actor",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_134609.jpg"
+        },
+        {
+            "id": 5992,
+            "name": "Унсё Исидзука",
+            "enName": "Unsho Ishizuka",
+            "description": "Lucha Master, озвучка",
+            "enProfession": "actor",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_5992.jpg"
+        },
+        {
+            "id": 83911,
+            "name": "Такэхито Коясу",
+            "enName": "Takehito Koyasu",
+            "description": "Fukamichi, озвучка",
+            "enProfession": "actor",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_83911.jpg"
+        },
+        {
+            "id": 1123329,
+            "name": "Масая Такацука",
+            "enName": "Masaya Takatsuka",
+            "description": "Hanai, озвучка",
+            "enProfession": "actor",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1123329.jpg"
+        },
+        {
+            "id": 1112083,
+            "name": "Осаму Рютани",
+            "enName": "Osamu Ryutani",
+            "description": "Tachibana, озвучка",
+            "enProfession": "actor",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1112083.jpg"
+        },
+        {
+            "id": 1048707,
+            "name": "Акира Кадзивара",
+            "enName": "Akira Kajiwara",
+            "description": "Otoko, озвучка",
+            "enProfession": "actor",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1048707.jpg"
+        },
+        {
+            "id": 1529790,
+            "name": "Масуми Кагэяма",
+            "enName": "Masumi Kageyama",
+            "description": "Joshi Kosei, озвучка",
+            "enProfession": "actor",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1529790.jpg"
+        },
+        {
+            "id": 1548708,
+            "name": "",
+            "enName": "Rena Mizushiro",
+            "description": "Joshi Kosei, озвучка",
+            "enProfession": "actor",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1548708.jpg"
+        },
+        {
+            "id": 1624702,
+            "name": "Матико Танака",
+            "enName": "Machiko Tanaka",
+            "description": "Joshi Kosei, озвучка",
+            "enProfession": "actor",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1624702.jpg"
+        },
+        {
+            "id": 37113,
+            "name": "Давид Луза",
+            "enName": "Daveed Louza",
+            "description": "Roo-Cha, озвучка",
+            "enProfession": "actor",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_37113.jpg"
+        },
+        {
+            "id": 1960046,
+            "name": "Стэйси ДеПасс",
+            "enName": "Stacey DePass",
+            "description": "Yu Takigawa, озвучка",
+            "enProfession": "actor",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1960046.jpg"
+        },
+        {
+            "id": 1286074,
+            "name": "Дженнифер Гудхью",
+            "enName": "Jennifer Goodhue",
+            "description": "Maki Aikawa, озвучка",
+            "enProfession": "actor",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1286074.jpg"
+        },
+        {
+            "id": 452698,
+            "name": "",
+            "enName": "Kim Kuhteubl",
+            "description": "Michiru Kawamoto, озвучка",
+            "enProfession": "actor",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_452698.jpg"
+        },
+        {
+            "id": 99805,
+            "name": "Джули Лемье",
+            "enName": "Julie Lemieux",
+            "description": "Renge Inui, озвучка",
+            "enProfession": "actor",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_99805.jpg"
+        },
+        {
+            "id": 275257,
+            "name": "Надин Рабинович",
+            "enName": "Nadine Rabinovitch",
+            "description": "Mina Nakanotani, озвучка",
+            "enProfession": "actor",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_275257.jpg"
+        },
+        {
+            "id": 3175993,
+            "name": "Мицуми Кидо",
+            "enName": "Mutsumi Kido",
+            "description": "продюсер (27 эпизодов, 2003)",
+            "enProfession": "producer",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_3175993.jpg"
+        },
+        {
+            "id": 409550,
+            "name": "Кодзо Морисита",
+            "enName": "Kozo Morishita",
+            "description": "планировщик (27 эпизодов, 2003)",
+            "enProfession": "producer",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_409550.jpg"
+        },
+        {
+            "id": 1111061,
+            "name": "Манабу Тамура",
+            "enName": "Manabu Tamura",
+            "description": "продюсер (27 эпизодов, 2003)",
+            "enProfession": "producer",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1111061.jpg"
+        },
+        {
+            "id": 1398151,
+            "name": "Хироси Ямасита",
+            "enName": "Hiroshi Yamashita",
+            "description": "продюсер (27 эпизодов, 2003)",
+            "enProfession": "producer",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1398151.jpg"
+        },
+        {
+            "id": 3088508,
+            "name": "Масахико Осава",
+            "enName": "Masahiko Ôsawa",
+            "description": "планировщик (27 эпизодов, 2003)",
+            "enProfession": "producer",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_3088508.jpg"
+        },
+        {
+            "id": 1112834,
+            "name": "Мицуру Осима",
+            "enName": "Mitsuru Ôshima",
+            "description": "планировщик (27 эпизодов, 2003)",
+            "enProfession": "producer",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1112834.jpg"
+        },
+        {
+            "id": 1669583,
+            "name": "Микико Кобаяси",
+            "enName": "Mikiko Kobayashi",
+            "description": "ассистент продюсера (1 эпизод, 2003)",
+            "enProfession": "producer",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1669583.jpg"
+        },
+        {
+            "id": 1286075,
+            "name": "",
+            "enName": "Marshall Kestan",
+            "description": "исполнительный продюсер",
+            "enProfession": "producer",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1286075.jpg"
+        },
+        {
+            "id": 1286076,
+            "name": "Роб Киркпатрик",
+            "enName": "Rob Kirkpatrick",
+            "description": "продюсер",
+            "enProfession": "producer",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1286076.jpg"
+        },
+        {
+            "id": 1286077,
+            "name": "Пол МакКонвей",
+            "enName": "Paul McConvey",
+            "description": "продюсер",
+            "enProfession": "producer",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1286077.jpg"
+        },
+        {
+            "id": 1135084,
+            "name": "Рэндолл Х. Зэлкен",
+            "enName": "Randall H. Zalken",
+            "description": "исполнительный продюсер",
+            "enProfession": "producer",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1135084.jpg"
+        },
+        {
+            "id": 3175991,
+            "name": "",
+            "enName": "Yokusaru Shibata",
+            "description": null,
+            "enProfession": "writer",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_3175991.jpg"
+        },
+        {
+            "id": 518865,
+            "name": "Митико Ёкотэ",
+            "enName": "Michiko Yokote",
+            "description": null,
+            "enProfession": "writer",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_518865.jpg"
+        },
+        {
+            "id": 3175992,
+            "name": "Муси Кохэй",
+            "enName": "Mushi Kohei",
+            "description": null,
+            "enProfession": "writer",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_3175992.jpg"
+        },
+        {
+            "id": 1686099,
+            "name": "",
+            "enName": "Bunya Fujii",
+            "description": null,
+            "enProfession": "writer",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1686099.jpg"
+        },
+        {
+            "id": 1686098,
+            "name": "Миу Кавасаки",
+            "enName": "Miu Kawasaki",
+            "description": null,
+            "enProfession": "writer",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1686098.jpg"
+        },
+        {
+            "id": 702875,
+            "name": "Марк Лейрен-Янг",
+            "enName": "Mark Leiren-Young",
+            "description": null,
+            "enProfession": "writer",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_702875.jpg"
+        },
+        {
+            "id": 1600208,
+            "name": "Ёсихиса Хирано",
+            "enName": "Yoshihisa Hirano",
+            "description": null,
+            "enProfession": "composer",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1600208.jpg"
+        },
+        {
+            "id": 2773337,
+            "name": "Сёитиро Сугиура",
+            "enName": "Shôichirô Sugiura",
+            "description": null,
+            "enProfession": "design",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2773337.jpg"
+        },
+        {
+            "id": 2010781,
+            "name": "Сигэру Нисияма",
+            "enName": "Shigeru Nishiyama",
+            "description": null,
+            "enProfession": "editor",
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2010781.jpg"
+        }
+    ],
+    "lists": [],
+    "spokenLanguages": [],
+    "productionCompanies": [],
+    "typeNumber": 4,
+    "ageRating": null,
+    "alternativeName": "Air Master",
+    "enName": null,
+    "movieLength": null,
+    "names": [
+        {
+            "name": "Воздушный мастер"
+        },
+        {
+            "name": "Air Master"
+        }
+    ],
+    "ratingMpaa": null,
+    "shortDescription": null,
+    "technology": {
+        "_id": "62f0dee70f5be412465c6a40",
+        "hasImax": false,
+        "has3D": false
+    },
+    "ticketsOnSale": false,
+    "updatedAt": "2022-08-31T08:58:16.146Z",
+    "sequelsAndPrequels": [],
+    "similarMovies": [],
+    "imagesInfo": {
+        "_id": "621abc13651ebcb9dff07323",
+        "framesCount": 0
+    },
+    "watchability": {
+        "_id": "630f22a8d9fe856bc6777292",
+        "items": null
+    },
+    "createDate": "2022-09-15T06:43:47.647Z"
+}
